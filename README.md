@@ -61,4 +61,3 @@ Por definir
 
 ## Autores
 
-- Luis A. Humada (lahumada)
